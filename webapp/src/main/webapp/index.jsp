@@ -143,7 +143,7 @@
                 </button>
             </div>
             <div class="c-services">
-                Catering Services- Cooked food is now available on selected trains. <span style="cursor:pointer;color:rgb(7, 136, 175);">Click here to know more.</span> IRCTC Jaipur Express Train no. 12720/17019 (HDN-JP-HDN) will run on all days except Tuesday with effect from 05.04.2024. IRCTC Jaipur Express Train no. 12720/17019 (HDN-JP-HDN) will remain cancelled on Friday 15.04.2024.
+                Catering Services- Cooked food is now available on selected trains. <span style="cursor:pointer;color:rgb(7, 136, 175);">Click here to know more.</span> IRCTC Jaipur Express Train no. 12720/17019 (HDN-JP-HDN) will run on all days except Saturday with effect from 02.04.2024. IRCTC Jaipur Express Train no. 12720/17019 (HDN-JP-HDN) will remain cancelled on Friday 15.04.2024.
             </div>
         </div>
         <div class="ir-title">
