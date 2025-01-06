@@ -24,8 +24,8 @@
                     <a href="" style="color:#000; font-weight: bold">ALERTS</a>
                 </button>
                 &emsp;
-                <span id="date">19-Mar-2022</span>
-                <span id="time">&nbsp;[11:11:29]</span>
+                <span id="date">31-Mar-2024</span>
+                <span id="time">&nbsp;[11:00:00]</span>
                 &emsp;
                 <div style="margin-right:1%; font-weight:bolder; font-size:85%;">A-</div>
                 <div style="margin-right:1%; font-weight:bolder; font-size:85%;">A</div>
@@ -143,7 +143,7 @@
                 </button>
             </div>
             <div class="c-services">
-                Catering Services- Cooked food is now available on selected trains. <span style="cursor:pointer;color:rgb(7, 136, 175);">Click here to know more.</span> IRCTC Tejas Express Train no. 82501/82502 (LJN-NDLS-LJN) will run on all days except Tuesday with effect from 08.03.2022. IRCTC Tejas Express Train no. 82501/82502 (LJN-NDLS-LJN) will remain cancelled on Friday 18.03.2022.
+                Catering Services- Cooked food is now available on selected trains. <span style="cursor:pointer;color:rgb(7, 136, 175);">Click here to know more.</span> IRCTC Jaipur Express Train no. 12720/17019 (HDN-JP-HDN) will run on all days except Tuesday with effect from 05.04.2024. IRCTC Jaipur Express Train no. 12720/17019 (HDN-JP-HDN) will remain cancelled on Friday 15.04.2024.
             </div>
         </div>
         <div class="ir-title">
@@ -153,6 +153,10 @@
             <div class="sub-title">
                 Safety | Security | Punctuality
             </div>
+	</div>
+	<div class="name">
+		by Prajapat Rahul
+	</div>
             <br/>
             <br/>
             <br/>
