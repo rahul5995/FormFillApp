@@ -155,7 +155,7 @@
             </div>
 	</div>
 	<div class="name">
-		by Prajapat Rahul
+		by PRAJAPAT RAHUL
 	</div>
             <br/>
             <br/>
