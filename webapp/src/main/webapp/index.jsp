@@ -25,7 +25,7 @@
                 </button>
                 &emsp;
                 <span id="date">25-may-2023</span>
-                <span id="time">&nbsp;[01:01:00]</span>
+                <span id="time">&nbsp;[06:06:30]</span>
                 &emsp;
                 <div style="margin-right:1%; font-weight:bolder; font-size:85%;">A-</div>
                 <div style="margin-right:1%; font-weight:bolder; font-size:85%;">A</div>
